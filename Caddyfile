@@ -1,0 +1,5 @@
+zimo.1205.fun
+
+markdown / {
+    template templates.html
+}
