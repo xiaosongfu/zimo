@@ -18,12 +18,11 @@
 
 * 《Go简易教程》|| [songleo/the-little-go-book_ZH_CN](https://github.com/songleo/the-little-go-book_ZH_CN) || [在线阅读](https://github.com/songleo/the-little-go-book_ZH_CN/README.md)   
 
-
 ##### 2.教程
 
+暂无
 
 ---  
-
 
 ## Flutter
 
@@ -33,9 +32,9 @@
 
 ##### 2.教程
 
+暂无
 
 ---  
-
 
 ## Docker & K8S
 
@@ -57,10 +56,7 @@
 
 * 和我一步步部署 kubernetes 集群 || [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) || [在线阅读](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
 
-
-
 ---  
-
 
 ## Serverless
 
@@ -68,13 +64,13 @@
 
 * 《Serverless 应用开发指南》 || [phodal/serverless](https://github.com/phodal/serverless) || [在线阅读](https://github.com/phodal/serverless) 
 
-
 ---  
-
 
 ## 前端
 
 ##### 1.图书
+
+暂无
 
 ##### 2.教程
 
@@ -82,18 +78,17 @@
 
 ---  
 
-
 ## Python
 
 ##### 1.图书
+
+暂无
 
 ##### 2.教程
 
 * The Flask Mega-Tutorial教程 || [luhuisicnu/The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) || [在线阅读](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)
 
-
----  
-
+---
 
 ## Git
 
@@ -103,11 +98,7 @@
 
 * 《Pro Git 第二版》 中文 || [在线阅读](https://git-scm.com/book/zh/v2)
 
-##### 2.教程
-
-
 ---  
-
 
 ## 阿里巴巴技术图书
 
@@ -125,19 +116,15 @@
 
 * 《不止代码》 | 2018-07-03 | [获取图书](https://102.alibaba.com/downloadFile.do?file=1530517140411/Codelife.pdf)
 
-
 ---
-
 
 ## 其他
 
 * 《cloud design patterns 中文版》|| [iambowen/cloud-design-patterns](https://github.com/iambowen/cloud-design-patterns) || [在线阅读](https://iambowen.gitbooks.io/cloud-design-pattern/content/)   
 
-
-
 ---
 
----
+## 图书仓库
 
-https://github.com/phodal/book  
-https://github.com/qyuhen/book  
+* https://github.com/phodal/book  
+* https://github.com/qyuhen/book  
