@@ -7,9 +7,9 @@
 ```
 npm install docsify-cli -g
 
-docsify init docs
+docsify init ./
 
-docsify serve docs -o true
+docsify serve ./ -o true
 ```
 
 ### 分支说明
