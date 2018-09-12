@@ -14,6 +14,8 @@
 
 * [前端](folder/front.md)
 
+* [Nginx](folder/nginx.md)
+
 * [Python](folder/python.md)
 
 * [Git](folder/git.md)
