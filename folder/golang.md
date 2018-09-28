@@ -1,6 +1,6 @@
 ##### 1.图书
 
-* 《Go语言圣经》|| 中文版 || [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) || [在线阅读](https://docs.hacknode.org/gopl-zh/ch0/ch0-01.html) 
+* 《Go语言圣经》|| 中文版 || [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) || [在线阅读1](https://github.com/gopl-zh/gopl-zh.github.com/blob/master/SUMMARY.md) & [在线阅读2](https://docs.hacknode.org/gopl-zh/ch0/ch0-01.html) 
 
 * 《Go Web 编程》|| <作者：谢大> || [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) || [在线阅读](https://github.com/astaxie/build-web-application-with-golang/zh/preface.md)   
 
