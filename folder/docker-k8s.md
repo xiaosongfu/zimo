@@ -8,7 +8,9 @@
 
 ##### 2.教程
 
-* Kubernetes中文指南/云原生应用架构实践手册 || [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) || [在线阅读](https://github.com/rootsongjc/kubernetes-handbook/SUMMARY.md)   
+* Kubernetes中文指南/云原生应用架构实践手册 || <作者：jimmysong> [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) || [在线阅读1](https://jimmysong.io/kubernetes-handbook/) # [在线阅读2](https://github.com/rootsongjc/kubernetes-handbook/blob/master/SUMMARY.md)   
+
+* Istio中文指南/服务网格实践手册 || <作者：jimmysong> [rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook) || [在线阅读1](https://jimmysong.io/istio-handbook/) # [在线阅读2](https://github.com/rootsongjc/istio-handbook/blob/master/SUMMARY.md)
 
 * Kubernetes指南 || [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) || [在线阅读](https://github.com/feiskyer/kubernetes-handbook/blob/master/zh/SUMMARY.md)
 

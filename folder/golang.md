@@ -11,3 +11,9 @@
 * 《Go简易教程》|| [songleo/the-little-go-book_ZH_CN](https://github.com/songleo/the-little-go-book_ZH_CN) || [在线阅读](https://github.com/songleo/the-little-go-book_ZH_CN/README.md)   
 
 * 《Go 程序设计语言内部实现原理》|| [英文 @ teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) # [中文 @ go-internals-cn/go-internals](https://github.com/go-internals-cn/go-internals) || [中文在线阅读](https://github.com/go-internals-cn/go-internals)
+
+---
+
+`WASM`
+
+* 《C++面向wasm编程》 || <作者：chai2010 等> || [3dgen/cppwasm-book](https://github.com/3dgen/cppwasm-book) || [在线阅读](https://github.com/3dgen/cppwasm-book/blob/master/SUMMARY.md)
