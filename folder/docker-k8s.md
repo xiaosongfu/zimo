@@ -17,3 +17,4 @@
 * Kubernetes完全教程 || [jolestar/kubernetes-complete-course](https://github.com/jolestar/kubernetes-complete-course) || [在线阅读](https://github.com/jolestar/kubernetes-complete-course/README.md)   
 
 * 和我一步步部署 kubernetes 集群 || [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) || [在线阅读](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
+* Kubernetes 1.10.x版本二进制部署 || [iiitux/K8s](https://github.com/iiitux/K8s/tree/master/01.Kubernetes%201.10.x%E5%AE%89%E8%A3%85)
