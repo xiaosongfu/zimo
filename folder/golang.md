@@ -4,16 +4,10 @@
 
 * 《Go Web 编程》|| <作者：谢大> || [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) || [在线阅读](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)   
 
-* 《Go语言高级编程》|| <作者：chai2010> || [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) || [在线阅读](https://github.com/chai2010/advanced-go-programming-book/SUMMARY.md)   
+* 《Go语言高级编程》|| <作者：chai2010> || [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) || [在线阅读](https://github.com/chai2010/advanced-go-programming-book/SUMMARY.md) & [在线阅读](https://chai2010.cn/advanced-go-programming-book/)  
 
 * 《Go入门指南》|| [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) || [在线阅读](https://github.com/Unknwon/the-way-to-go_ZH_CN/TOC.md)   
 
 * 《Go简易教程》|| [songleo/the-little-go-book_ZH_CN](https://github.com/songleo/the-little-go-book_ZH_CN) || [在线阅读](https://github.com/songleo/the-little-go-book_ZH_CN/README.md)   
 
 * 《Go 程序设计语言内部实现原理》|| [英文 @ teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) # [中文 @ go-internals-cn/go-internals](https://github.com/go-internals-cn/go-internals) || [中文在线阅读](https://github.com/go-internals-cn/go-internals)
-
----
-
-`WASM`
-
-* 《C++面向wasm编程》 || <作者：chai2010 等> || [3dgen/cppwasm-book](https://github.com/3dgen/cppwasm-book) || [在线阅读](https://github.com/3dgen/cppwasm-book/blob/master/SUMMARY.md)

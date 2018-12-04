@@ -6,6 +6,8 @@
 * 《The Modern Javascript Tutorial》 || [官网](https://javascript.info/) || [中文 Github](https://github.com/xitu/javascript-tutorial-zh)   
 现代 JavaScript 教程
 
+* 《现代 JavaScript 开发：语法基础与工程实践》 || [在线阅读](https://github.com/wxyyxc1992/ProgrammingLanguage-Series/tree/master/JavaScript)
+
 ##### 2.教程
 
 * 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇 || [wxyyxc1992/Web-Series](https://github.com/wxyyxc1992/Web-Series) || [在线阅读](https://github.com/wxyyxc1992/Web-Series)
