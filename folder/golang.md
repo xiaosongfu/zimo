@@ -6,6 +6,8 @@
 
 * 《Go语言高级编程》|| <作者：chai2010> || [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) || [在线阅读](https://github.com/chai2010/advanced-go-programming-book/SUMMARY.md) & [在线阅读](https://chai2010.cn/advanced-go-programming-book/)  
 
+* 《Go2编程指南》 || || [chai2010/go2-book](https://github.com/chai2010/go2-book) & [在线阅读](https://github.com/chai2010/go2-book/blob/master/SUMMARY.md) && [在线阅读](https://chai2010.cn/go2-book/)
+
 * 《Go入门指南》|| [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) || [在线阅读](https://github.com/Unknwon/the-way-to-go_ZH_CN/TOC.md)   
 
 * 《Go简易教程》|| [songleo/the-little-go-book_ZH_CN](https://github.com/songleo/the-little-go-book_ZH_CN) || [在线阅读](https://github.com/songleo/the-little-go-book_ZH_CN/README.md)   

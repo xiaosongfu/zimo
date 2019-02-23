@@ -4,4 +4,6 @@
 
 * 《Flutter实战》 || [在线阅读](https://book.flutterchina.club/) & [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action)
 
+* 《Flutter 入门指南》 || [在线阅读](https://github.com/icepy/flutter-book/blob/master/doc/SUMMARY.md) & [cepy/flutter-book](https://github.com/icepy/flutter-book)
+
 * 《Dart学习笔记/head-first-dart-book》 || [在线阅读](https://chai2010.cn/head-first-dart-book/) & [chai2010/head-first-dart-book](https://github.com/chai2010/head-first-dart-book)
