@@ -7,6 +7,7 @@
 * [Serverless](folder/serverless.md)
 * [前端](folder/front.md)
 * [Python](folder/python.md)
+* [ML](folder/ml.md)
 * [Git](folder/git.md)
 * [操作系统](folder/os.md)
 * [Nginx](folder/nginx.md)
