@@ -14,7 +14,16 @@
 
 * 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇 || [wxyyxc1992/Web-Series](https://github.com/wxyyxc1992/Web-Series) || [在线阅读](https://github.com/wxyyxc1992/Web-Series)
 
+## JavaScript
+
+* 《JavaScript 语言入门教程》 || [wangdoc.com/javascript](https://wangdoc.com/javascript/)
+* 《ECMAScript 6 入门》 || [es6.ruanyifeng.com](http://es6.ruanyifeng.com/)
 
 ## TypeScript
 
 * 《TypeScript 入门教程》 || [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) || [在线阅读](https://ts.xcatliu.com/)
+
+## Node
+
+* 《一起学 Node.js》 || [在线阅读](https://github.com/nswbmw/N-blog)
+
