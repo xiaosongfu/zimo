@@ -17,3 +17,5 @@
 * 《Go语言四十二章经》 || [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42)
 
 * 《Mastering GO》 || [hantmac/Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) || [在线阅读](https://wskdsgcf.gitbook.io/mastering-go-zh-cn/)
+
+* 《Go语言101》|| [在线阅读](https://gfw.go101.org/article/101.html) || [github](https://github.com/go101/go101)
