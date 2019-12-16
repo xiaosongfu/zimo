@@ -27,3 +27,7 @@
 
 * 《一起学 Node.js》 || [在线阅读](https://github.com/nswbmw/N-blog)
 
+## React
+
+* 《React.js 小书》|| [在线阅读](http://huziketang.mangojuice.top/books/react/) || [Github](https://github.com/huzidaha/react-naive-book)
+
