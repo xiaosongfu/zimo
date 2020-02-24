@@ -4,6 +4,7 @@
 * [.NET](folder/dotnet.md)
 * [WASM](folder/wasm.md)
 * [Kotlin & Android](folder/kotlin-android.md)
+* [Gradle](folder/gradle.md)
 * [Dart & Flutter](folder/dart-flutter.md)
 * [Docker & K8S](folder/docker-k8s.md)
 * [Serverless](folder/serverless.md)

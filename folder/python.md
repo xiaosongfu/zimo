@@ -1,6 +1,6 @@
 ##### 1.图书
 
-暂无
+* 《Think Python》 || [在线阅读](https://codingpy.com/books/thinkpython2/index.html)
 
 ##### 2.教程
 
